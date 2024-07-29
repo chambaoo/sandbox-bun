@@ -5,9 +5,19 @@
 - 公式
   - <https://bun.sh/docs/runtime/shell>
 
+### typescript
+
 ```sh
 bun shell.ts
 ```
+
+### shell script
+
+```sh
+bun ./src/simple_shell.sh 
+```
+
+## compile
 
 ```sh
 cd dist
