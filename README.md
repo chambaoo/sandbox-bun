@@ -5,16 +5,20 @@
 - 公式
   - <https://bun.sh/docs/runtime/shell>
 
+```sh
+npm install -g bun
+```
+
 ### typescript
 
 ```sh
-bun shell.ts
+bun src/shell.ts
 ```
 
 ### shell script
 
 ```sh
-bun ./src/simple_shell.sh 
+bun src/simple_shell.sh 
 ```
 
 ## compile
